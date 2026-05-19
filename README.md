@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Coding_Mode_🔥-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Status-Coding_Mode_%F0%9F%94%A5-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/github/followers/ariqhisyam?label=Followers&style=for-the-badge&logo=github&color=purple" />
 </p>
 
@@ -12,20 +12,20 @@
 ## ⚡ Ariq Dashboard
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ariqhisyam&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&animation=true" alt="Statistik Ariq" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ariqhisyam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&animation=true" alt="Statistik Ariq" />
   
-  <img height="180" src="https://github-readme-top-langs.vercel.app/api/?username=ariqhisyam&layout=compact&theme=tokyonight&hide_border=false&langs_count=6" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariqhisyam&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="48%", src="https://github-readme-streak-stats.herokuapp.com/?user=ariqhisyam&theme=tokyonight&hide_border=false" alt="Streak Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ariqhisyam&theme=tokyonight" alt="Streak Stats" />
   
-  <img width="48%", src="https://github-readme-stats.vercel.app/api/wakatime?username=ariqhisyam&theme=tokyonight&layout=compact" alt="Wakatime Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ariqhisyam&repo=TUGAS-BESAR-KPL&theme=tokyonight" alt="Pinned Repo" />
 </p>
 
 ---
 
-## 🗺️ My GitHub Contribution 3D Trophy Hall
+## 🗺️ My GitHub Contribution 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ariqhisyam&theme=tokyonight&row=1&column=6&margin-w=15" alt="Trophy Ariq" />
@@ -34,6 +34,7 @@
 
 ---
 
+## Activity
 <p align="center">
     <img src="https://raw.githubusercontent.com/ariqhisyam/ariqhisyam/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
