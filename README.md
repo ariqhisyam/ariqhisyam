@@ -1,10 +1,7 @@
 
-    
-    <g>
-      <text x="50%" y="35" text-anchor="middle" class="typing">
+
         🚀 WELCOME TO ARIQ HISYAM NABIL SPACE_
-      </text>
-    </g>
+    
 
 ---
 
