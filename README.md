@@ -1,10 +1,32 @@
-<div style="background: #1a1b26; border: 2px solid #39FF14; padding: 10px; border-radius: 8px; box-shadow: 0 0 10px #39FF14;">
-  <marquee behavior="scroll" direction="left" scrollamount="7">
-    <span style="color: #39FF14; font-family: 'Fira Code', monospace; font-size: 20px; font-weight: bold; text-shadow: 0 0 5px #39FF14;">
-      🚀 WELCOME TO MY SPACE • 💻 ARIQ HISYAM NABIL • 🧠 Informatics • 🌱 Github Tetangga Lebih Hijau 🔥
-    </span>
-  </marquee>
+<div align="center">
+  <div style="
+    font-family: 'Courier New', Courier, monospace; 
+    color: #39FF14; 
+    font-size: 24px; 
+    font-weight: bold;
+    text-shadow: 0 0 8px #39FF14, 0 0 20px #20C20E;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 3px solid #39FF14;
+    width: 39ch;
+    animation: typing 4s steps(39) infinite, blink 0.5s step-end infinite alternate;
+  ">
+    🚀 WELCOME TO ARIQ HISYAM NABIL SPACE_
+  </div>
 </div>
+
+<style>
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 39ch }
+  }
+  @keyframes blink {
+    from, to { border-color: transparent }
+    50% { border-color: #39FF14 }
+  }
+</style>
+
+<br>
 
 <br>
 
