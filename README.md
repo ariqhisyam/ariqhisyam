@@ -15,19 +15,6 @@
 
 ---
 
-## ⚡ Ariq Dashboard
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ariqhisyam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&animation=true" alt="Statistik Ariq" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ariqhisyam&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ariqhisyam&theme=tokyonight" alt="Streak Stats" />
-</p>
-
----
-
 ## 🗺️ My GitHub Contribution 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
