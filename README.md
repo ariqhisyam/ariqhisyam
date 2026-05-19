@@ -34,7 +34,6 @@
 
 ---
 
-## 📈 Snake Game Animation (Grafik Hijau Kamu Dimakan Ular!)
 <p align="center">
     <img src="https://raw.githubusercontent.com/ariqhisyam/ariqhisyam/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
