@@ -1,6 +1,12 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=WELCOME+TO+MY+SPACE+🚀;ARIQ+HISYAM+NABIL;Psychology+x+Informatics+💻;Github+Tetangga+Lebih+Hijau+🌱" alt="Typing Effect" />
-</p>
+<div style="background: #1a1b26; border: 2px solid #39FF14; padding: 10px; border-radius: 8px; box-shadow: 0 0 10px #39FF14;">
+  <marquee behavior="scroll" direction="left" scrollamount="7">
+    <span style="color: #39FF14; font-family: 'Fira Code', monospace; font-size: 20px; font-weight: bold; text-shadow: 0 0 5px #39FF14;">
+      🚀 WELCOME TO MY SPACE • 💻 ARIQ HISYAM NABIL • 🧠 Informatics • 🌱 Github Tetangga Lebih Hijau 🔥
+    </span>
+  </marquee>
+</div>
+
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Coding_Mode_%F0%9F%94%A5-brightgreen?style=for-the-badge&logo=github" />
