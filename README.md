@@ -1,39 +1,41 @@
-<div align="center">
-  <div style="
-    font-family: 'Courier New', Courier, monospace; 
-    color: #39FF14; 
-    font-size: 24px; 
-    font-weight: bold;
-    text-shadow: 0 0 8px #39FF14, 0 0 20px #20C20E;
-    white-space: nowrap;
-    overflow: hidden;
-    border-right: 3px solid #39FF14;
-    width: 39ch;
-    animation: typing 4s steps(39) infinite, blink 0.5s step-end infinite alternate;
-  ">
-    🚀 WELCOME TO ARIQ HISYAM NABIL SPACE_
-  </div>
-</div>
-
-<style>
-  @keyframes typing {
-    from { width: 0 }
-    to { width: 39ch }
-  }
-  @keyframes blink {
-    from, to { border-color: transparent }
-    50% { border-color: #39FF14 }
-  }
-</style>
-
-<br>
-
-<br>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Coding_Mode_%F0%9F%94%A5-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/followers/ariqhisyam?label=Followers&style=for-the-badge&logo=github&color=purple" />
+  <svg width="600" height="60" viewBox="0 0 600 60" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      .typing {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 22px;
+        font-weight: bold;
+        fill: #39FF14;
+        filter: drop-shadow(0px 0px 5px #39FF14);
+        white-space: nowrap;
+        overflow: hidden;
+        stroke-dasharray: 40;
+        stroke-dashoffset: 40;
+        animation: type 4s steps(40) infinite;
+      }
+      .cursor {
+        fill: #39FF14;
+        animation: blink 0.5s step-end infinite alternate;
+      }
+      @keyframes type {
+        0%, 10% { width: 0; }
+        70%, 90% { width: 100%; }
+        100% { width: 0; }
+      }
+      @keyframes blink {
+        50% { opacity: 0; }
+      }
+    </style>
+    
+    <g>
+      <text x="50%" y="35" text-anchor="middle" class="typing">
+        🚀 WELCOME TO ARIQ HISYAM NABIL SPACE_
+      </text>
+    </g>
+  </svg>
 </p>
+
+<br>
 
 ---
 
