@@ -12,15 +12,12 @@
 ## ⚡ Ariq Dashboard
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ariqhisyam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&animation=true" alt="Statistik Ariq" />
-  
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariqhisyam&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ariqhisyam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&animation=true" alt="Statistik Ariq" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ariqhisyam&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ariqhisyam&theme=tokyonight" alt="Streak Stats" />
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ariqhisyam&repo=TUGAS-BESAR-KPL&theme=tokyonight" alt="Pinned Repo" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ariqhisyam&theme=tokyonight" alt="Streak Stats" />
 </p>
 
 ---
@@ -34,7 +31,6 @@
 
 ---
 
-## Activity
 <p align="center">
     <img src="https://raw.githubusercontent.com/ariqhisyam/ariqhisyam/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
