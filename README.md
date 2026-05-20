@@ -23,6 +23,10 @@
 </p>
 
 ---
+Git Contribution
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ariqhisyam/ariqhisyam/output/github-contribution-graph.svg" alt="Galaga Contribution Game" />
+</p>
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/ariqhisyam/ariqhisyam/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
